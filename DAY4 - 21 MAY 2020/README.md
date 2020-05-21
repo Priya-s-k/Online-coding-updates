@@ -14,3 +14,7 @@
 # prog 17
    simple applet java program to check whether the given number is armstrong number or not.
    
+# prog 18
+  Python program in number right angled triangle
+# prog 19
+  Write a menu program in Python to find Area-Circle, Circumference-Circle, Area- Square, Circumference-Square using functions with menu choice Create seperate functions for each choice of menu
