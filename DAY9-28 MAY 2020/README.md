@@ -10,4 +10,7 @@
   write jsp code to display today’s date and time using expression tag
  
 # JSP-prog 2
-   write jsp script to determine how many times the visitor has loaded the page
+   write jsp script to determine how many times the visitor has loaded the 
+   
+# Reducing array
+   Given an array arr[] of size N and an integer K. The task is to find the last remaining element in the array after reducing the array. 
