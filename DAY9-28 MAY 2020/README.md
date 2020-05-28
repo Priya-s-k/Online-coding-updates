@@ -5,3 +5,9 @@
   
 # balenced bracket
    java program to balence the bracket
+  
+# JSP-prog 1
+  write jsp code to display today’s date and time using expression tag
+ 
+# JSP-prog 2
+   write jsp script to determine how many times the visitor has loaded the page
