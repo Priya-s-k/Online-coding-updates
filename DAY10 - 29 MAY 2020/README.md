@@ -9,7 +9,7 @@
 # Chinese Remainder Theorem.
   Write a c program to solve a system of linear congruences by applying the Chinese Remainder Theorem.
 
-# Armstrong Num
+# Armstrong Number
   Write a Java Program to check whether the given number is Armstrong number or not
   
 # Substring
