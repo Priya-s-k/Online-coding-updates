@@ -8,3 +8,9 @@
 
 # Chinese Remainder Theorem.
   Write a c program to solve a system of linear congruences by applying the Chinese Remainder Theorem.
+
+# Armstrong Num
+  Write a Java Program to check whether the given number is Armstrong number or not
+  
+# Substring
+  Write a Java Program to find longest substring without repeating characters in a string.
