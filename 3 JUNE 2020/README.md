@@ -17,3 +17,6 @@
       
    6. Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for 
       finding the range
+
+# prime num
+   python program to finding the prime numbers in a given range
