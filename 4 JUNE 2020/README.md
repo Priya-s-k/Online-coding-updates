@@ -6,3 +6,7 @@
 
 # queue in java
    Write a Java program to implement Queue Using Array And Class
+
+# queue
+   Write a Java program to implement Queue Using Array And Class
+
