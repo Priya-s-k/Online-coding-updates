@@ -8,3 +8,6 @@
   
 # detect node
   Java program to delete a node from the middle of the singly linked list
+
+# string palindrome
+  Program  to find whether a string is a palindrome or not
