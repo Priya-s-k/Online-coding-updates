@@ -6,5 +6,5 @@
 # min and max in CLL
    Write a Java program to find the maximum and minimum value node from a circular linked list
    
-# fibonacci num
+# fibonacci number
    Python Program to check whether a given number is a fibonacci number or not 
