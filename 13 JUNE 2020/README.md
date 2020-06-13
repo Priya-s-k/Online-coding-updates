@@ -8,3 +8,6 @@
 
 # sparse matrix
    Write a Java Program to determine whether a given matrix is a sparse matrix
+
+# alphabetic patttern
+   Python Program to print the alphabetic pattern
