@@ -5,3 +5,6 @@
    
 # swap
    swap 2 numbers using pointers
+   
+# DLL
+   Write a Java program to create a doubly linked list of n nodes and display it in reverse order
