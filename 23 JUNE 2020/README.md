@@ -1,4 +1,4 @@
 # 23 june 2020
 
-# Sort a stack
+# sort a stack
   Write a C Program to Sort a stack using a temporary stack
